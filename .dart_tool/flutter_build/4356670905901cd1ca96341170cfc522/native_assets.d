@@ -1,0 +1,1 @@
+ E:\\demo\\flutter_pizza_app\\.dart_tool\\flutter_build\\4356670905901cd1ca96341170cfc522\\native_assets.yaml: 
